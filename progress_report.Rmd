@@ -1,0 +1,31 @@
+---
+title: "Progress report"
+author: "Matthieu"
+date: "Month, 2018"
+output: html_document
+---
+
+```{r, include=FALSE, echo=FALSE, message=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(message = FALSE, tidy=FALSE)
+options(width = 999)
+```
+
+
+
+## March
+
+###  3/19/2018 Monday
+
+Did:
+
+* a
+    + aa
+    + aaa
+* b
+
+Todo
+
+* a
+* a
+
