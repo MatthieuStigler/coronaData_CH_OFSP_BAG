@@ -1,58 +1,67 @@
+library(matPkg)
 library(tidyverse)
-library(tools)
+
+file_here <- "/home/matifou/Dropbox/Documents/Uni/Davis/Thesis/data/yields_RMA_lobell/code_setup"
+file_out <- paste(file_here, "999_CHECK_RUN_report.csv", sep="/")
 
 
-source("/home/matifou/Dropbox/Documents/Ordi/R/Divers scripts/read_yaml.R")
+dat_files <-  mat_list_Rfiles(file_here)
 
-dir_code <- "/home/matifou/Dropbox/Documents/Uni/Davis/Thesis/data/prices_bloom/code_setup"
+dat_files
 
-## get all
-dat <- data_frame(full_path =list.files(dir_code, pattern="\\.R", full.names = TRUE)) %>%
-  mutate(name=basename(full_path),
-         ext=file_ext(name)) %>%
-  select(-full_path, full_path)
+##Prob files?
+dat_files %>%
+  filter(!has_yaml | !has_runMat) %>% 
+  filter(ext!="Rout") %>% 
+  filter(!str_detect(filename, "^9"))
 
-count(dat, ext)
-
-## add more
-dat_2 <- dat %>%
-  mutate(number_char = str_extract(name, "([0-9]_)+") %>%
-           str_replace("_$", ""),
-         number = number_char %>%
-           str_replace("_", "\\.") %>% 
-           str_replace_all("_", "") %>%
-           as.numeric(),
-         yaml = map(full_path, parse_yaml),
-         has_yaml=map_lgl(yaml, ~ !is_empty(.)),
-         has_runMat  = map2_lgl(has_yaml, yaml, ~if(.x)  "runMat" %in% names(.y) else FALSE ),
-         runMat_val = map2_lgl(has_runMat, yaml, ~if(.x)  .y$runMat else FALSE )) %>%
-  select(-full_path, full_path)
-
-dat_2
-
-dat_2 %>%
-  filter(has_yaml)
-
-dat_2 %>%
-  filter(has_runMat)
 
 ######################
-##### Run more stuff
+##### Previous file
 ######################
 
-##
+is_there <- file.exists(file_out)
 
-runs <- dat_2 %>%
-  filter(ext=="R" & has_yaml & has_runMat) %>%
-  mutate(try = map(full_path, ~safely(source)(.)))
+if(is_there) {
+  df_out <- read_csv(file_out) %>%
+    filter(date==max(date))
+  
+  dat_files_time <- dat_files %>% 
+    left_join(df_out %>%
+                select(filename, elapsed),
+              by = "filename") %>%
+    mutate(first_num = str_extract(filename, "^[0-9]") %>% as.integer) %>% 
+    arrange(first_num, elapsed) %>% 
+    rename(elapsed_before=elapsed)
+  
+  dat_files_time
+  
+} else {
+  dat_files_time <- dat_files
+}
+
+######################
+##### Run stuff
+######################
+
+scripts_run <- dat_files_time %>% 
+  filter(has_yaml) %>% 
+  filter(runMat_val) %>% 
+  # head(2) %>% 
+  mat_run_Rfiles(echo=TRUE) %>% 
+  dplyr::select(-full_path)
+
+scripts_run
 
 
 
-##3 ana runs
-runs %>%
-  select(-full_path) %>%
-  mutate(error=map(try, ~.[["error"]]),
-         has_error= map_lgl(error, ~!is.null(.)),
-         error=map_chr(error, ~ifelse(is.null(.), NA, .) %>% as.character)) %>%
-  filter(has_error) %>%
-  pull(error)
+######################
+##### check errors
+######################
+
+## check errors
+mat_99_write(scripts_run)
+
+## export
+mat_99_showErr(scripts_run, dir = file_here)
+

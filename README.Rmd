@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "Matthieu"
+date: "5/22/2019"
+output:
+  html_document:
+    keep_md: yes
+---
+
+# yield_temp_US: Objective
+
+Objective is to do a yields on GDD analysis, following in spirit the analysis by RObert and Schlenker.
+
+1. A first part of the project contains GDD code, trying various method, including code by Thor.
+
+2. Second party contains pure weather/GDD data, either from M Gammans, or pulled from Earth Engine. 
