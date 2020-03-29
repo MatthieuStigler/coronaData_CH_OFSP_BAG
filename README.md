@@ -19,3 +19,5 @@ output:
 ## This repo
 
 This code simply downloads the data, simple cleaning and produce a plot: 
+
+![Image stored in: output/figures/deaths_by_age](output/figures/deaths_by_age.png?raw=true)
