@@ -2,31 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-
-
-
-output/*
-
-
-.~*
-
-## R files
-*.rda
-*.rds
-*.Rdata
-*.Rout
-
-## misc
-*.pdf
-*.png
-*.log
-*.html
-
-## geo files
-*.shp
-*.prj
-*.dbf
-*.shx
-*.cpg
-*.qpj
-

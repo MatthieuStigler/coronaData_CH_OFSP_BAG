@@ -1,7 +1,7 @@
 library(matPkg)
 library(tidyverse)
 
-file_here <- "/home/matifou/Dropbox/Documents/Uni/Davis/Thesis/data/yields_RMA_lobell/code_setup"
+file_here <- "/home/matifou/Dropbox/Documents/analysis/rProj_template/code_setup"
 file_out <- paste(file_here, "999_CHECK_RUN_report.csv", sep="/")
 
 
@@ -20,25 +20,31 @@ dat_files %>%
 ##### Previous file
 ######################
 
-is_there <- file.exists(file_out)
 
-if(is_there) {
-  df_out <- read_csv(file_out) %>%
-    filter(date==max(date))
-  
-  dat_files_time <- dat_files %>% 
-    left_join(df_out %>%
-                select(filename, elapsed),
-              by = "filename") %>%
-    mutate(first_num = str_extract(filename, "^[0-9]") %>% as.integer) %>% 
-    arrange(first_num, elapsed) %>% 
-    rename(elapsed_before=elapsed)
-  
-  dat_files_time
-  
-} else {
-  dat_files_time <- dat_files
-}
+# mat_99_arrange_by_last <- function(path_out, dat_files) {
+#   
+#   is_there <- file.exists(path_out)
+#   
+#   if(is_there) {
+#     df_out <- read_csv(file_out) %>%
+#       filter(time==max(time))
+#     
+#     dat_files <- dat_files %>% 
+#       left_join(df_out %>%
+#                   select(filename, elapsed),
+#                 by = "filename") %>%
+#       mutate(first_num = str_extract(filename, "^[0-9]") %>% as.integer) %>% 
+#       arrange(first_num, elapsed) %>% 
+#       # rename(elapsed_before=elapsed)
+#       select(-elapsed, -first_num)
+#     
+#     dat_files_time
+#     
+#   } 
+#   dat_files
+# }
+
+dat_files_time <- mat_99_arrange_by_last(file_out, dat_files)
 
 ######################
 ##### Run stuff
@@ -59,9 +65,10 @@ scripts_run
 ##### check errors
 ######################
 
+
 ## check errors
-mat_99_write(scripts_run)
+mat_99_showErr(scripts_run)
 
 ## export
-mat_99_showErr(scripts_run, dir = file_here)
+mat_99_write(df=scripts_run, dir = file_here)
 
