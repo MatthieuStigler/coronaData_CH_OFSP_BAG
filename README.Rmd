@@ -18,6 +18,10 @@ output:
 
 ## This repo
 
-This code simply downloads the data, simple cleaning and produce a plot: 
+This code simply downloads the data, simple cleaning and produces 1) a bar plot by age and gender: 
 
 ![Image stored in: output/figures/deaths_by_age](output/figures/deaths_by_age.png?raw=true)
+
+and 2) Evolution over time by age (total male and female)
+
+![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/deaths_over_time_by_age.png?raw=true)
