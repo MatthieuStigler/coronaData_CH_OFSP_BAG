@@ -30,7 +30,7 @@ link_xlsx <- links %>%
 
 ## Name out file
 today <- Sys.Date()
-file_out <- paste0("data_raw/OFSP_report_downloades_", str_replace_all(today, "-", "_"), ".xlsx")
+file_out <- paste0("data_raw/OFSP_report_downloaded_", str_replace_all(today, "-", "_"), ".xlsx")
 
 ## Download 
 download.file(link_xlsx$url_full[[1]], file_out)
@@ -45,7 +45,7 @@ doc_date <- read_xlsx(file_out, sheet = 5, n_max = 1) %>%
   str_extract("2020-[0-9]{2}-[0-9]{2}")
 
 ## read sheet 5
-doc <- read_xlsx(tmp_file, sheet = 5, skip=5, n_max = 6)
+doc <- read_xlsx(file_out, sheet = 5, skip=5, n_max = 6)
 
 ## Clean
 doc_clean <- doc %>% 
@@ -55,8 +55,17 @@ doc_clean <- doc %>%
 doc_clean
 
 ################################
-#'## Export
+#'## Read previous doc
 ################################
 
-write_csv(doc_clean, "data_final/sheet_5_deceased_by_age.csv",
-          append = today != doc_date)
+doc_before <- read_csv("data_final/sheet_5_deceased_by_age.csv")
+latest_date_saved <- max(doc_before$date)
+
+################################
+#'## Export if newer
+################################
+
+if(doc_date>latest_date_saved) {
+  write_csv(doc_clean, "data_final/sheet_5_deceased_by_age.csv",
+            append = TRUE)
+}
