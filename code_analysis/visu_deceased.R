@@ -41,6 +41,7 @@ pl_time_age <- dat_deceased_age_l %>%
   filter(category=="Total") %>% 
   ggplot(aes(x = date, y = n_cases, color=age_class)) + 
   geom_line(lwd=1.5) +
+  geom_point() +
   xlab("Date") + ylab("Number of cases") +
   labs(color = "Age class") +
   ggtitle("Deceased cases over time, by age")
