@@ -24,48 +24,39 @@ link_xlsx <- links %>%
 
 
 ################################
-#'## Downlaod
+#'## Downlaod to temp file
 ################################
-
-
-## Name out file
-today <- Sys.Date()
-file_out <- paste0("data_raw/OFSP_report_downloaded_", str_replace_all(today, "-", "_"), ".xlsx")
 
 ## Download 
-download.file(link_xlsx$url_full[[1]], file_out)
+tmp_file <- tempfile()
+download.file(link_xlsx$url_full[[1]], tmp_file)
 
 ################################
-#'## Read
+#'## Check if is update
 ################################
 
 ## read just actual date
-doc_date <- read_xlsx(file_out, sheet = 5, n_max = 1) %>% 
+doc_date <- read_xlsx(tmp_file, sheet = 5, n_max = 1) %>% 
   colnames() %>% 
   str_extract("2020-[0-9]{2}-[0-9]{2}")
 
-## read sheet 5
-doc <- read_xlsx(file_out, sheet = 5, skip=5, n_max = 6)
+## last date available
+files_there <- list.files("data_raw", pattern = "\\.xlsx$")
+files_there_dates <- str_extract(files_there, "[0-9]{4}_[0-9]{1,2}_[0-9]{1,2}") %>% 
+  as.Date(format = "%Y_%m_%d")
 
-## Clean
-doc_clean <- doc %>% 
-  setNames(c("age_class", "male_deceased", "female_deceased", "total_deceased")) %>% 
-  mutate(date = as.Date(doc_date))
+latest_there <- max(files_there_dates)
 
-doc_clean
-
-################################
-#'## Read previous doc
-################################
-
-doc_before <- read_csv("data_final/sheet_5_deceased_by_age.csv")
-latest_date_saved <- max(doc_before$date)
+## 
+is_update <- doc_date >  latest_there
+is_update
 
 ################################
-#'## Export if newer
+#'## Save if update
 ################################
 
-if(doc_date>latest_date_saved) {
-  write_csv(doc_clean, "data_final/sheet_5_deceased_by_age.csv",
-            append = TRUE)
+if(is_update) {
+  file_out <- paste0("data_raw/OFSP_report_downloaded_", str_replace_all(doc_date, "-", "_"), ".xlsx")  
+  # file.exists(tmp_file)
+  file.copy(tmp_file, file_out, overwrite = TRUE) # in theory overwrite not needed!
 }
