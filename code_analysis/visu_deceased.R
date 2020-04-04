@@ -82,6 +82,6 @@ dat_sheet4_hospit %>%
 ################################
 
 ggsave(pl_age, filename="output/figures/deaths_by_age.png", width = 8, height = 6)
-ggsave(pl_deceased_time_colorAge, filename="output/figures/deaths_over_time_by_age.png", width = 8, height = 6)
-ggsave(pl_hospit_time_colorAge, filename="output/figures/deaths_over_time_by_age.png", width = 8, height = 6)
+ggsave(pl_deceased_time_colorAge, filename="output/figures/deceased_over_time_by_age.png", width = 8, height = 6)
+ggsave(pl_hospit_time_colorAge, filename="output/figures/hospitalised_over_time_by_age.png", width = 8, height = 6)
 

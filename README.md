@@ -21,11 +21,11 @@ output:
 This code simply downloads the data, simple cleaning and produces 1) Evolution over time by age (total male and female)
 
 
-![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/deaths_over_time_by_age.png?raw=true)
+![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/deceased_over_time_by_age.png?raw=true)
 
 2) hospitalised by age
 
-![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/deaths_over_time_by_age.png?raw=true)
+![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/hospitalised_over_time_by_age.png?raw=true)
 
 and 3) a bar plot by age and gender: 
 
