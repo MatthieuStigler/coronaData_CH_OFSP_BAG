@@ -1,6 +1,6 @@
-library(rvest)
+suppressPackageStartupMessages(library(rvest))
 library(readxl)
-library(tidyverse)     
+suppressPackageStartupMessages(library(tidyverse))
 library(stringi)
 
 ################################
@@ -29,7 +29,7 @@ link_xlsx <- links %>%
 
 ## Download 
 tmp_file <- tempfile()
-download.file(link_xlsx$url_full[[1]], tmp_file)
+download.file(link_xlsx$url_full[[1]], tmp_file, quiet=TRUE)
 
 ################################
 #'## Check if is update
@@ -49,7 +49,7 @@ latest_there <- max(files_there_dates)
 
 ## 
 is_update <- doc_date >  latest_there
-is_update
+
 
 ################################
 #'## Save if update
@@ -59,4 +59,7 @@ if(is_update) {
   file_out <- paste0("data_raw/OFSP_report_downloaded_", str_replace_all(doc_date, "-", "_"), ".xlsx")  
   # file.exists(tmp_file)
   file.copy(tmp_file, file_out, overwrite = TRUE) # in theory overwrite not needed!
+  print("Update")
+} else {
+  print("No update")
 }

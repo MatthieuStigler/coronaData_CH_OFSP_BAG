@@ -1,5 +1,5 @@
 library(readxl)
-library(tidyverse)     
+suppressPackageStartupMessages(library(tidyverse))
 library(stringi)
 
 ################################
@@ -12,7 +12,6 @@ files_there <- list.files("data_raw", pattern = "\\.xlsx$", full.names = TRUE) %
            as.Date(format = "%Y_%m_%d")) %>% 
   arrange(date)
 
-files_there
 
 ################################
 #'## Read one
