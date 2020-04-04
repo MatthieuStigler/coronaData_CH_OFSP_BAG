@@ -1,6 +1,6 @@
 library(rvest)
 library(readxl)
-library(tidyverse)     
+suppressPackageStartupMessages(library(tidyverse))
 library(stringi)
 
 ################################

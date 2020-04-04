@@ -1,11 +1,11 @@
-library(tidyverse)     
+suppressPackageStartupMessages(library(tidyverse))
 
 ################################
 #'## Read doc
 ################################
 
-dat_sheet5_deceased <- read_csv("data_final/sheet_5_deceased.csv")
-dat_sheet4_hospit <- read_csv("data_final/sheet_4_hospitalised.csv")
+dat_sheet5_deceased <- read_csv("data_final/sheet_5_deceased.csv", col_types = cols())
+dat_sheet4_hospit <- read_csv("data_final/sheet_4_hospitalised.csv", col_types = cols())
 
 ################################
 #'## Barplot by age and gender
