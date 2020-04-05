@@ -10,8 +10,8 @@ rm -f Rplots.pdf
 
 git_mess="Automatic update, $(date +'%d %b %Y')"
 git status
-# git add data_raw/OFSP_report_downloaded*
-# git commit --all -m "$git_mess"
-# 
+git add data_raw/OFSP_report_downloaded*
+git commit --all -m "$git_mess"
+git push origin master
 echo "Done"
 
