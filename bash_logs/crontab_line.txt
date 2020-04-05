@@ -1,0 +1,1 @@
+0 18 * * * /bin/bash /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/runR_commitGit.sh 1> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_LOG.txt 2> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_ERR.txt
