@@ -1,0 +1,5 @@
+Fatal error: cannot open file 'code/0_1_download_BAG_OFSP.R': No such file or directory
+Fatal error: cannot open file 'code/0_2_docs_process.R': No such file or directory
+Fatal error: cannot open file 'code/0_3_check_data.R': No such file or directory
+Fatal error: cannot open file 'code/0_6_visualize_plots.R': No such file or directory
+Done
