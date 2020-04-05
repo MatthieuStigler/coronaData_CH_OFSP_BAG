@@ -1,9 +1,9 @@
 #!/bin/bash
 ## Run R
-#Rscript --vanilla code/0_1_download_BAG_OFSP.R #> /dev/null 2>&1 &
-#Rscript --vanilla code/0_2_docs_process.R 
-#Rscript --vanilla code/0_3_check_data.R 
-#Rscript --vanilla code/0_6_visualize_plots.R 
+Rscript --vanilla code/0_1_download_BAG_OFSP.R #> /dev/null 2>&1 &
+Rscript --vanilla code/0_2_docs_process.R 
+Rscript --vanilla code/0_3_check_data.R 
+Rscript --vanilla code/0_6_visualize_plots.R 
 rm -f Rplots.pdf
 
 ## GIT stuff
