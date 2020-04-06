@@ -1,4 +1,10 @@
 #!/bin/bash
+
+## seth path
+parent_path=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+echo "Running from directory: in $parent_path"
+cd "$parent_path"
+
 ## Run R
 Rscript --vanilla code/0_1_download_BAG_OFSP.R #> /dev/null 2>&1 &
 Rscript --vanilla code/0_2_docs_process.R 
