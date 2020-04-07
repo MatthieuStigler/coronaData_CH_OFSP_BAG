@@ -19,5 +19,5 @@ git status
 git add data_raw/OFSP_report_downloaded*
 git commit data_raw/* data_final/* output/figures/* -m "$git_mess"
 git push origin master
-echo "Done"
+echo "Done, $(date +'%d %b %Y at %H:%M')"
 
