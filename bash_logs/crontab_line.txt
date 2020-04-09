@@ -1,4 +1,5 @@
 export EDITOR=/bin/nano
 crontab -e
-## this is UTC, Switzerland is UTC + 2 in Summer time. Hence 18:00 Bern, (9:00 am California)
-0 16 * * * /bin/bash /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/runR_commitGit.sh 1>> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_LOG.txt 2>> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_ERR.txt
+## this is actually local time!
+30 08 * * * /bin/bash /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/runR_commitGit.sh 1>> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_LOG.txt 2>> /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/runR_commitGit_ERR.txt
+45 08 * * * /bin/bash /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG/bash_logs/bas_push_logs.sh
