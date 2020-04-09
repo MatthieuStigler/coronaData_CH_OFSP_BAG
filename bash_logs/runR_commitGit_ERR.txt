@@ -1,1 +1,4 @@
 Everything up-to-date
+Everything up-to-date
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   b1434c8..2368b4f  master -> master
