@@ -36,7 +36,7 @@ download.file(link_xlsx$url_full[[1]], tmp_file, quiet=TRUE)
 ################################
 
 ## read just actual date
-doc_date <- read_xlsx(tmp_file, sheet = 5, n_max = 1) %>% 
+doc_date <- read_xlsx(tmp_file, sheet = 1, n_max = 1) %>% 
   colnames() %>% 
   str_extract("2020-[0-9]{2}-[0-9]{2}")
 
