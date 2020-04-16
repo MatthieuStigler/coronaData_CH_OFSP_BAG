@@ -2,3 +2,20 @@ Everything up-to-date
 Everything up-to-date
 To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
    b1434c8..2368b4f  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   6d3dbe7..91ff7e0  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   91ff7e0..78f6476  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   78f6476..f2b27c5  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   f2b27c5..ec230c5  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   ec230c5..2d6dee0  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   2d6dee0..a05f29d  master -> master
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   a05f29d..2681046  master -> master
+Error: Can't retrieve sheet in position 5, only 3 sheet(s) found.
+Execution halted
+Everything up-to-date
