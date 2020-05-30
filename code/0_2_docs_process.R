@@ -12,6 +12,12 @@ files_there <- list.files("data_raw", pattern = "\\.xlsx$", full.names = TRUE) %
            as.Date(format = "%Y_%m_%d")) %>% 
   arrange(date)
 
+files_there
+
+## check which ones
+range(files_there$date)
+anyDuplicated(files_there$date)
+length(seq(min(files_there$date), max(files_there$date), by=1))==length(files_there$date)
 
 ################################
 #'## Read one
@@ -20,7 +26,7 @@ files_there <- list.files("data_raw", pattern = "\\.xlsx$", full.names = TRUE) %
 path_doc_latest <- tail(files_there$full_path, 1)
 
 ################################
-#'## Process sheet 5
+#'## pre-Process sheets
 ################################
 
 get_date_sheet <- function(path, sheet) {
@@ -28,6 +34,50 @@ get_date_sheet <- function(path, sheet) {
     colnames() %>% 
     str_extract("2020-[0-9]{2}-[0-9]{2}")
 }
+
+##
+get_dim_sheet <- function(path, sheet, n_max=Inf) {
+  
+  ## date
+  # doc_date <- get_date_sheet(path, sheet)
+  read <-  safely(~suppressMessages(read_xlsx(., sheet = sheet, skip=6, n_max = n_max)))(path)
+  if(!is.null(read$error)){
+    res <- tibble(n_row=NA, n_col=NA)
+  } else {
+    res <- read$result%>% 
+      dim() %>% 
+      setNames(c("n_row", "n_col")) %>% 
+      enframe() %>% 
+      pivot_wider(names_sort=FALSE)
+  }
+  res
+}
+
+get_dim_sheet(path=files_there$full_path[19], sheet=5)
+
+sheets_n_max_df <- tibble(sheet=1:5,
+                          n_max=c(Inf, 9, 27, 9, 6))
+
+files_dim <- files_there %>% 
+  mutate(dat_temp=list(sheets_n_max_df)) %>% 
+  unnest(dat_temp) %>% 
+  mutate(read=pmap(list(full_path, sheet, n_max), ~get_dim_sheet(..1, ..2, ..3))) %>% 
+                   # ~safely(~get_dim_sheet(..1, ..2, ..3))(list(..1, ..2, ..3)))) %>% 
+  unnest(read)
+
+files_dim
+
+################################
+#'## Visu probs
+################################
+
+files_dim %>% 
+  ggplot(aes(x=date, y=n_col, color=factor(sheet)))+
+  geom_step()
+
+################################
+#'## extract data
+################################
 
 ## read sheet 5
 read_process_generic <- function(path, sheet, n_max=Inf, col_types=NULL, col_names) {
