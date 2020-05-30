@@ -71,9 +71,13 @@ files_dim
 #'## Visu probs
 ################################
 
-files_dim %>% 
+plot_sheets_dim <- files_dim %>% 
+  mutate(n_col=ifelse(sheet==5,n_col+0.13, n_col )) %>% 
   ggplot(aes(x=date, y=n_col, color=factor(sheet)))+
-  geom_step()
+  geom_step()+
+  ggtitle("Number of rows for each  sheet over time")
+
+plot_sheets_dim
 
 ################################
 #'## extract data
@@ -159,3 +163,4 @@ do_all_write(sheet=3, postfix = "_byCanton")
 do_all_write(sheet=4, postfix = "_hospitalised")
 do_all_write(sheet=5, postfix = "_deceased")
 
+ggsave(plot_sheets_dim, filename = "output/figures/sctructure_sheets.png")
