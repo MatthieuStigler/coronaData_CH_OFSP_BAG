@@ -346,3 +346,1108 @@ Changes not staged for commit:
 
 no changes added to commit
 Done, 16 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_17.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b4495f0] Automatic update, 17 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_17.xlsx
+Done, 17 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_18.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 33c86a1] Automatic update, 18 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_18.xlsx
+Done, 18 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_19.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7815f31] Automatic update, 19 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_19.xlsx
+Done, 19 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_20.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 13697c2] Automatic update, 20 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_20.xlsx
+Done, 20 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_21.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 78eba56] Automatic update, 21 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_21.xlsx
+Done, 21 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_22.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f5a0cf0] Automatic update, 22 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_22.xlsx
+Done, 22 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_23.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6caac4e] Automatic update, 23 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_23.xlsx
+Done, 23 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_24.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8099f5c] Automatic update, 24 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_24.xlsx
+Done, 24 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_25.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 33ffa4b] Automatic update, 25 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_25.xlsx
+Done, 25 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_26.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1879f6a] Automatic update, 26 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_26.xlsx
+Done, 26 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_27.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e48cea1] Automatic update, 27 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_27.xlsx
+Done, 27 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_28.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6e992b1] Automatic update, 28 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_28.xlsx
+Done, 28 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_29.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8c070a0] Automatic update, 29 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_29.xlsx
+Done, 29 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_04_30.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 86949a6] Automatic update, 30 Apr 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_04_30.xlsx
+Done, 30 Apr 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_01.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 844cd8d] Automatic update, 01 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_01.xlsx
+Done, 01 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_02.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 271148c] Automatic update, 02 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_02.xlsx
+Done, 02 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_03.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ee3e8ba] Automatic update, 03 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_03.xlsx
+Done, 03 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_04.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 158b89e] Automatic update, 04 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_04.xlsx
+Done, 04 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_05.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8391f92] Automatic update, 05 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_05.xlsx
+Done, 05 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_06.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master bdb091c] Automatic update, 06 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_06.xlsx
+Done, 06 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_07.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a9d491a] Automatic update, 07 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_07.xlsx
+Done, 07 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_08.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master d3b90ee] Automatic update, 08 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_08.xlsx
+Done, 08 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_09.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 72321bc] Automatic update, 09 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_09.xlsx
+Done, 09 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_10.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8d981f1] Automatic update, 10 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_10.xlsx
+Done, 10 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_11.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a39ee1c] Automatic update, 11 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_11.xlsx
+Done, 11 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_12.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 869a1a6] Automatic update, 12 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_12.xlsx
+Done, 12 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_13.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f73cc70] Automatic update, 13 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_13.xlsx
+Done, 13 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_14.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6e1ca1e] Automatic update, 14 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_14.xlsx
+Done, 14 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_15.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8979af6] Automatic update, 15 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_15.xlsx
+Done, 15 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_16.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 595b2d1] Automatic update, 16 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_16.xlsx
+Done, 16 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_17.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 440dd88] Automatic update, 17 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_17.xlsx
+Done, 17 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_18.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 68d4610] Automatic update, 18 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_18.xlsx
+Done, 18 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_19.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c758df1] Automatic update, 19 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_19.xlsx
+Done, 19 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_20.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2756855] Automatic update, 20 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_20.xlsx
+Done, 20 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_21.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ce9a1ae] Automatic update, 21 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_21.xlsx
+Done, 21 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_22.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e15bdbd] Automatic update, 22 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_22.xlsx
+Done, 22 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_23.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f6b878f] Automatic update, 23 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_23.xlsx
+Done, 23 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_24.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 58d45b4] Automatic update, 24 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_24.xlsx
+Done, 24 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_25.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0f117d7] Automatic update, 25 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_25.xlsx
+Done, 25 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_26.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 713ddf2] Automatic update, 26 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_26.xlsx
+Done, 26 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_27.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3ef93c7] Automatic update, 27 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_27.xlsx
+Done, 27 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_28.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3420f07] Automatic update, 28 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_28.xlsx
+Done, 28 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_29.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8f1882c] Automatic update, 29 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_29.xlsx
+Done, 29 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_30.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3efcf66] Automatic update, 30 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_30.xlsx
+Done, 30 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_05_31.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c4119d9] Automatic update, 31 May 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_05_31.xlsx
+Done, 31 May 2020 at 08:30
+Running from directory: in /home/stigler/gitReps/my_github/coronaData_CH_OFSP_BAG
+[1] "Update"
+[1] "Problem!"
+[1] "OK"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_logs/runR_commitGit_ERR.txt
+	modified:   bash_logs/runR_commitGit_LOG.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data_raw/OFSP_report_downloaded_2020_06_01.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2ac4ca8] Automatic update, 01 Jun 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data_raw/OFSP_report_downloaded_2020_06_01.xlsx
+Done, 01 Jun 2020 at 08:30

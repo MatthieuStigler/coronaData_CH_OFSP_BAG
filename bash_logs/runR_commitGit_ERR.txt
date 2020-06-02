@@ -19,3 +19,222 @@ To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
 Error: Can't retrieve sheet in position 5, only 3 sheet(s) found.
 Execution halted
 Everything up-to-date
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   2192975..b4495f0  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   b4495f0..33c86a1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   33c86a1..7815f31  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   7815f31..13697c2  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   13697c2..78eba56  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   78eba56..f5a0cf0  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   f5a0cf0..6caac4e  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   6caac4e..8099f5c  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8099f5c..33ffa4b  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   33ffa4b..1879f6a  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   1879f6a..e48cea1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   e48cea1..6e992b1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   6e992b1..8c070a0  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8c070a0..86949a6  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   86949a6..844cd8d  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   844cd8d..271148c  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   271148c..ee3e8ba  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   ee3e8ba..158b89e  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   158b89e..8391f92  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8391f92..bdb091c  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   bdb091c..a9d491a  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   a9d491a..d3b90ee  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   d3b90ee..72321bc  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   72321bc..8d981f1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8d981f1..a39ee1c  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   a39ee1c..869a1a6  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   869a1a6..f73cc70  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   f73cc70..6e1ca1e  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   6e1ca1e..8979af6  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8979af6..595b2d1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   595b2d1..440dd88  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   440dd88..68d4610  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   68d4610..c758df1  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   c758df1..2756855  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   2756855..ce9a1ae  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   ce9a1ae..e15bdbd  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   e15bdbd..f6b878f  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   f6b878f..58d45b4  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   58d45b4..0f117d7  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   0f117d7..713ddf2  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   713ddf2..3ef93c7  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   3ef93c7..3420f07  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   3420f07..8f1882c  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+   8f1882c..3efcf66  master -> master
+Error: Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+Execution halted
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Error: Problem with `mutate()` input `sheet`.
+✖ Sheet 1 has 7 columns (7 unskipped), but `col_names` has length 2.
+ℹ Input `sheet` is `map(full_path, fo)`.
+Backtrace:
+     █
+  1. └─global::do_all_write(sheet = 1, postfix = "_byDate")
+  2.   └─`%>%`(...)
+  3.     ├─base::withVisible(eval(quote(`_fseq`(`_lhs`)), env, env))
+  4.     └─base::eval(quote(`_fseq`(`_lhs`)), env, env)
+  5.       └─base::eval(quote(`_fseq`(`_lhs`)), env, env)
+  6.         └─`_fseq`(`_lhs`)
+  7.           └─magrittr::freduce(value, `_function_list`)
+  8.             └─function_list[[i]](value)
+  9.               ├─dplyr::mutate(., sheet = map(full_path, fo))
+ 10.               └─dplyr:::mutate.data.frame(., sheet = map(full_path, fo))
+ 11.                 └─dplyr:::mutate_cols(.data, ...)
+<parent: error/Rcpp::exception>
+Backtrace:
+█
+Execution halted
+Storing counts in `nn`, as `n` already present in input
+ℹ Use `name = "new_name"` to pick a new name.
+To github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:MatthieuStigler/coronaData_CH_OFSP_BAG.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
