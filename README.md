@@ -18,7 +18,7 @@ output:
 
 ## This repo
 
-This code simply downloads the data, simple cleaning and produces 1) Evolution over time by age (total male and female)
+This code simply downloads and archives the data produced by OFSP. Structure changes over time ([issue#1](https://github.com/MatthieuStigler/coronaData_CH_OFSP_BAG/issues/1)) so cleaning is not updated anymore, except for sheet 3 (by canton) which did not change. ~~simple cleaning and produces 1) Evolution over time by age (total male and female)~~
 
 
 ![Image stored in: output/figures/deaths_over_time_by_age.png](output/figures/deceased_over_time_by_age.png?raw=true)
